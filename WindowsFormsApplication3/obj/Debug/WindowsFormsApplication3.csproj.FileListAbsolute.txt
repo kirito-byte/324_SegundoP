@@ -1,0 +1,19 @@
+c:\users\56946\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\56946\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\56946\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\56946\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\56946\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\56946\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\56946\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\56946\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\56946\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Universidad\324\324\EXAMEN2INF324-main\PREGUNTA3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
